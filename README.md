@@ -147,10 +147,10 @@ Then open [http://localhost:3000](http://localhost:3000).
 
 | Description | Screenshot |
 |--------------|-------------|
-| **Login Page** | ![Login](frontend/public/screenshots/login.png) |
-| **Shop Page** | ![Shop](frontend/public/screenshots/shop.png) |
-| **Admin Dashboard** | ![Admin Dashboard](frontend/public/screenshots/admin.png) |
-| **Sweet Management** | ![Manage Sweets](frontend/public/screenshots/sweets.png) |
+| **Login Page** | ![Login](frontend/public/Screenshots/login.png) |
+| **Shop Page** | ![Shop](frontend/public/Screenshots/shop.png) |
+| **Admin Dashboard** | ![Admin Dashboard](frontend/public/Screenshots/admin.png) |
+| **Sweet Management** | ![Manage Sweets](frontend/public/Screenshots/sweets.png) |
 
 ---
 
