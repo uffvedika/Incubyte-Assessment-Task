@@ -15,7 +15,7 @@ Hosted webside: v0-sweet-shop-system-brown.vercel.app
 - [Testing](#testing)
 - [Screenshots](#screenshots)
 - [My AI Usage](#my-ai-usage)
-- [License](#license)
+
 
 ---
 
@@ -54,7 +54,6 @@ Key highlights:
 - TypeScript
 - Tailwind CSS
 - shadcn/ui
-- Prisma ORM
 - PostgreSQL (SQLite for local testing)
 - Jest / React Testing Library
 
@@ -74,8 +73,6 @@ sweet-shop/
 │       ├── reviews/     # reviews endpoint
 │       ├── orders/      # order management
 │       └── admin/       # admin analytics & activity logs
-├── components/          # reusable React components
-├── prisma/              # Prisma schema & client
 ├── public/              # static assets
 ├── styles/ or app/globals.css
 ├── package.json
@@ -113,12 +110,6 @@ NEXT_PUBLIC_API_URL="http://localhost:3000"
 If using SQLite locally:
 ```bash
 DATABASE_URL="file:./dev.db"
-```
-
-### 4️⃣ Setup the database
-```bash
-npx prisma migrate dev --name init
-npx prisma generate
 ```
 
 ### 5️⃣ Run the development server
