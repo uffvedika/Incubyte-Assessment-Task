@@ -1,11 +1,11 @@
-# 🍬 Sweet Shop Management System
+#  Sweet Shop Management System
 
 A full-stack **Next.js + TypeScript** web application for managing a sweet shop — built to handle **user authentication, sweet inventory, purchases, reviews, promotions, and admin analytics** — all in a single modern, serverless app.
 
 Hosted webside: v0-sweet-shop-system-brown.vercel.app
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -19,7 +19,7 @@ Hosted webside: v0-sweet-shop-system-brown.vercel.app
 
 ---
 
-## 🧩 Project Overview
+##  Project Overview
 
 The **Sweet Shop Management System** simplifies daily operations for a sweet shop.  
 It allows **customers** to browse and purchase sweets, while **admins** can manage inventory, review analytics, and track activities — all from a clean, responsive interface.
@@ -33,7 +33,7 @@ Key highlights:
 
 ---
 
-## ⚙️ Features
+##  Features
 
 | Category | Features |
 |-----------|-----------|
@@ -46,7 +46,7 @@ Key highlights:
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 **Frontend + Backend (monorepo)**  
 - Next.js 14 (App Router)
@@ -59,7 +59,7 @@ Key highlights:
 
 ---
 
-## 🗂 Folder Structure
+## Folder Structure
 
 ```
 sweet-shop/
@@ -81,7 +81,7 @@ sweet-shop/
 
 ---
 
-## 🧰 Setup and Installation
+##  Setup and Installation
 
 ### 1️⃣ Clone the repository
 ```bash
@@ -112,7 +112,7 @@ If using SQLite locally:
 DATABASE_URL="file:./dev.db"
 ```
 
-### 5️⃣ Run the development server
+###  Run the development server
 ```bash
 pnpm run dev
 ```
@@ -121,7 +121,7 @@ Then open [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## 🚀 Running the Application
+##  Running the Application
 
 | Environment | Command | Description |
 |--------------|----------|-------------|
@@ -133,7 +133,7 @@ Then open [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## 🖼 Screenshots
+##  Screenshots
 
 
 | Description | Screenshot |
@@ -145,7 +145,7 @@ Then open [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## 💬 My AI Usage
+##  My AI Usage
 
 > As required, this section transparently documents how AI was used during this project.
 
