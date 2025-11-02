@@ -1,12 +1,12 @@
-# 🧪 Test Report — Sweet Shop Management System
+#  Test Report — Sweet Shop Management System
 
-## 📋 Overview
+##  Overview
 This document presents the results of testing conducted on the **Sweet Shop Management System**.  
 Testing was carried out to verify functionality, stability, and correctness of key modules across both frontend and backend components.
 
 ---
 
-## 🧰 Test Environment
+##  Test Environment
 
 | Category | Details |
 |-----------|----------|
@@ -20,7 +20,7 @@ Testing was carried out to verify functionality, stability, and correctness of k
 
 ---
 
-## 🧩 Modules Tested
+##  Modules Tested
 
 | Module | Description | Status |
 |---------|--------------|--------|
@@ -33,7 +33,7 @@ Testing was carried out to verify functionality, stability, and correctness of k
 
 ---
 
-## 🧪 Test Methodology
+##  Test Methodology
 
 1. **Unit Testing** — Verified each API route independently using Jest and Supertest.  
 2. **Integration Testing** — Confirmed correct interactions between API routes, Prisma ORM, and the database.  
@@ -43,7 +43,7 @@ Testing was carried out to verify functionality, stability, and correctness of k
 
 ---
 
-## 🧾 Example Jest Output
+##  Example Jest Output
 
 ```
  PASS  tests/auth.test.ts
@@ -64,18 +64,11 @@ Time:        2.45 s
 Ran all test suites.
 ```
 
-✅ **All test suites passed successfully** — indicating a stable, functional build.
+ **All test suites passed successfully** — indicating a stable, functional build.
 
 ---
 
-## 📸 Screenshots (Optional)
-
-> Attach screenshots or snippets of your test run or terminal output here.  
-> Example: `tests/test-results.png`
-
----
-
-## 🧠 Summary & Analysis
+## Summary & Analysis
 
 | Criteria | Result | Notes |
 |-----------|--------|-------|
@@ -88,7 +81,7 @@ Ran all test suites.
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 All major modules of the **Sweet Shop Management System** function correctly and pass the defined test suite.  
 The application is **ready for deployment** and meets expected functionality for both admin and customer workflows.
@@ -100,7 +93,7 @@ Further improvements can include:
 
 ---
 
-**Prepared by:** [Your Name]  
+**Prepared by:** Vedika Gupta
 **Date:** November 2025  
 **Project:** Sweet Shop Management System  
 **Status:** ✅ All tests passed  
